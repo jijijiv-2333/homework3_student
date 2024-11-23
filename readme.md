@@ -31,5 +31,7 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
+### Yiyang Liu yiyang23@uw.edu
 Write your paragraph on the importance of the required plot elements here.
+
+The concise, descriptive title for each figure/subplot are helpful to reading the graph and know what is been ploted. Axis labels with units can help we know the scale of the graph. Appropriate axis limits could make the graph in a proprate scale so that the garph can be read fully and clearly. Appropriate tick resolution using legend when using different datasets, appropriate font size all would help reading the graph easily.
